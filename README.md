@@ -1,2 +1,3 @@
 # DA-PROJECTSS
-Using the basic data analysis steps to be reaching on the conclusion
+
+Using the basic data analysis step to buy the "Prefect T-Shirts"
